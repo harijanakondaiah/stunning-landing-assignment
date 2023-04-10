@@ -1,0 +1,205 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.logo01 {
+    width: 130px;
+    height: 45px;
+}
+.manohar {
+    margin-left: 0px;
+}
+#home {
+    color: #cccac6;
+    font-size: 18px;
+}
+#about {
+    color: #cccac6;
+    font-size: 18px;
+}
+#blog {
+    color: #cccac6;
+    font-size: 18px;
+}
+#jobs {
+    color: #cccac6;
+    font-size: 18px;
+}
+.button01 {
+    position: absolute;
+    right:50px;
+    border-width: 0px;
+    border-style: solid;
+    background-color: #FFD8DB;
+    font-size: 14px;
+    color: #8071D0;
+    font-weight: bold;
+    width: 130px;
+    border-radius: 30px;
+    height: 40px;
+    top: 12px;
+}
+.heading01 {
+    color: black;
+    font-size: 72px;
+    font-weight: bold;
+}
+.manu {
+    color:#234f96;
+    position: relative;
+    left: -25px;
+}
+.paragraph01 {
+    color: #a5a6a8;
+    font-size: 16px;
+    font-weight: 500;
+    white-space: nowrap;
+}
+.button02 {
+    background-color: #0b45a1;
+    color: #ffffff;
+    width: 130px;
+    border-radius: 20px;
+    height: 50px;
+    border-width: 0px;
+    border-style:solid;
+    font-size: 12px;
+    font-weight:bold;
+    
+}
+.image02 {
+    background-color: #ebedf0;
+}
+.card-container {
+    background-color: #ebeced;
+    width: 380px;
+    height: 70px;
+    border-radius: 15px;
+    align-items: center;
+}
+.heading02 {
+    font-size:16px;
+    font-weight:500;
+    margin-top: 26px;
+}
+.image003 {
+    font-size: 30px;
+    margin-top: 20px;
+    color: white;
+}
+.image04 {
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+.paragraph02 {
+    color: #a5a6a8;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 23px;
+}
+.button03 {
+    background-color: #FED7DA;
+    width: 30px;
+    height: 15px;
+    margin-top: 27px;
+    border: 0px solid;
+    border-radius: 10px;
+} 
+.bg-container01 {
+    height: 100vh;
+}
+.side-image {
+    width: 750px;
+    height: 600px;
+    margin-left: 155px;   
+}
+
+.manohar #home:hover {
+    text-decoration: underline;
+    color:black;
+}
+.manohar #about:hover {
+    text-decoration: underline;
+    color:black;
+}
+.manohar #blog:hover {
+    text-decoration: underline;
+    color:black;
+}
+.manohar #jobs:hover {
+    text-decoration: underline;
+    color:black;
+}
+.image004 {
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 41px;
+}
+.button04 {
+    background-color: #FD6534;
+    width: 30px;
+    height: 15px;
+    margin-top: 27px;
+    border: 0px solid;
+    border-radius: 10px;
+} 
+.image0004 {
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 75px;
+}
+.button05 {
+    background-color: #9ED095;
+    width: 30px;
+    height: 15px;
+    margin-top: 27px;
+    border: 0px solid;
+    border-radius: 10px;
+} 
+.button06 {
+    background-color: #FFE4A0;
+    width: 30px;
+    height: 15px;
+    margin-top: 27px;
+    border: 0px solid;
+    border-radius: 10px;
+} 
+.image00004 {
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 88px;
+}
+.card-container:hover {
+    background-color: white;
+    transform: translatez(30px);
+    border-width: 5px solid #c0c1c2;
+
+}
+.image003:hover {
+    color: blue;
+    border-width: 5px solid #c0c1c2;
+}
+.button02:hover {
+    background-color: #FD6534;
+}
+.button01:hover {
+    background-color: palevioletred;
+}
+.image02:hover {
+    background-color: #9ED095;
+}
+.king:hover {
+    background-color: black;
+}
+.container {
+    display:flex;
+    
+   
+}
